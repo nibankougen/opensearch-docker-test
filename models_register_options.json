@@ -1,0 +1,16 @@
+{
+  "name": "huggingface/intfloat/multilingual-e5-large",
+  "version": "0.0.0",
+  "model_format": "ONNX",
+  "model_group_id": "GAk8sI0BqdUFht1E9zFe",
+  "model_task_type": "TEXT_EMBEDDING",
+  "model_content_size_in_bytes": 207262,
+  "model_content_hash_value": "2d4b6fefd8f93b0d908877d644ec482b426cfd13633375b4aeed4c26e2a664ec",
+  "model_config": {
+    "model_type": "xlm-roberta",
+    "embedding_dimension": 1024,
+    "framework_type": "sentence_transformers"
+  },
+  "created_time": "1707987548",
+  "url": "http://download-models:8090/multilingual-e5-large-onnx.zip"
+}
